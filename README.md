@@ -7,6 +7,7 @@ Duration : July 15-August 15 2024
 Mentor : Neela Santhosh Kumar
 
 OVERVIEW OF THE PROJECT :
+
 =>HTML Structure:
 The HTML file sets up the structure of the web page, including a join screen for entering a username and a chat screen for sending and receiving messages.
 
