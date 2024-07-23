@@ -1,9 +1,14 @@
 # CODETECH-Task1
 Name : Sura Bhuvaneswari
+
 Company : CODETECH IT SOLUTIONS
+
 ID : CT08DS4992
+
 Domain :FRONTEND WEB DEVELOPMENT
+
 Duration : July 15-August 15 2024
+
 Mentor : Neela Santhosh Kumar
 
 OVERVIEW OF THE PROJECT :
